@@ -1,13 +1,38 @@
-.centrar {display:flex;justify-content: center;}
+.logo {
+  width: 120px;
+  height: 120px;
+}
 
-.logo{width: 120px;height: 120px;}
-body{background-color: #fee4d7; 
+body {
+  background-color: #fee4d7;
+}
 
-    ;}
-.nopad{padding:0px;
-margin:0px;}
-nav{background-color: #fee4d7;}
+nav {
+  background-color: #fee4d7;
+}
 
-h2{display:flex;justify-content: center;}
-.btween {display:flex;justify-content:right;}
-.fontc {color: #b7541b;}
+h2 {
+  display: flex;
+  justify-content: center;
+}
+
+.btween {
+  display: flex;
+  justify-content: right;
+}
+
+.centrar {
+  display: flex;
+  justify-content: center;
+}
+
+.nopad {
+  padding: 0px;
+  margin: 0px;
+}
+
+.fontc {
+  color: #b7541b;
+}
+
+/*# sourceMappingURL=style.css.map */
