@@ -18,6 +18,10 @@ section {
   background-image: url(../img/parallax.jpg);
 }
 
+#seccion2 {
+  background-image: url(../img/Isotipo1.png);
+}
+
 .logo {
   width: 120px;
   height: 120px;
@@ -51,6 +55,18 @@ h2 {
 
 .footerbg {
   background-color: #b7541b;
+}
+
+.ali1 {
+  text-align: left;
+}
+
+.ali2 {
+  text-align: center;
+}
+
+.ali3 {
+  text-align: right;
 }
 
 .centrar {
