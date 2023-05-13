@@ -1,15 +1,3 @@
-html, body {height: 100%;}
-section{
-    width: 100%;
-    height: 100%;
-    padding: 0;
-    margin: 0;
-}
-.parallax{
-    background:#fff fixed no-repeat 50% 50%;
-    background-size: cover;}
-#seccion1{background-image: url(../img/parallax.jpg)}
-#seccion2{background-image: url(../img/Isotipo1.png)}    
 @import "header";
 @import "footer";
 @import "general";

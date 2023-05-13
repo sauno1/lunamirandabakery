@@ -1,27 +1,3 @@
-html, body {
-  height: 100%;
-}
-
-section {
-  width: 100%;
-  height: 100%;
-  padding: 0;
-  margin: 0;
-}
-
-.parallax {
-  background: #fff fixed no-repeat 50% 50%;
-  background-size: cover;
-}
-
-#seccion1 {
-  background-image: url(../img/parallax.jpg);
-}
-
-#seccion2 {
-  background-image: url(../img/Isotipo1.png);
-}
-
 .logo {
   width: 120px;
   height: 120px;
@@ -69,6 +45,10 @@ h2 {
   text-align: right;
 }
 
+html, body {
+  height: 100%;
+}
+
 .centrar {
   display: flex;
   justify-content: center;
@@ -85,6 +65,42 @@ h2 {
 
 .fontc2 {
   color: #fee4d7;
+}
+
+section {
+  width: 100%;
+  height: 100%;
+  padding: 0;
+  margin: 0;
+}
+
+.parallax {
+  background: #fff fixed no-repeat 50% 50%;
+  background-size: cover;
+}
+
+#seccion1 {
+  background-image: url(../img/parallax.jpg);
+}
+
+#seccion2 {
+  background-image: url(../img/Isotipo1.png);
+}
+
+.menu {
+  list-style: none;
+  text-decoration: none;
+  position: relative;
+  left: 350px;
+}
+
+.li1 {
+  display: inline;
+  font-size: 20x;
+}
+
+.oh {
+  overflow: hidden;
 }
 
 /*# sourceMappingURL=style.css.map */
